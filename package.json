@@ -1,8 +1,8 @@
 {
-  "name": "express1a",
+  "name": "experiment-1",
   "version": "1.0.0",
   "description": "",
-  "main": "Express1a.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
